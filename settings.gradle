@@ -1,0 +1,4 @@
+rootProject.name = 'LazyJava4'
+include 'lazy-server'
+include 'lazy-admin'
+
